@@ -1,0 +1,1 @@
+print('abc', 'abd', '000ddd', end='\nkim', sep='~~')
